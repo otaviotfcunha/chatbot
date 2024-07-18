@@ -1,2 +1,2 @@
-# chatbot
-Chatbot em python
+# Chatbot
+Chatbot criado em python para estudo.
